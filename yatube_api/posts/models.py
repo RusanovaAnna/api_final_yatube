@@ -70,4 +70,3 @@ class Follow(models.Model):
                 name='unique_author_user_following'
             )
         ]
-    
