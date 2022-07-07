@@ -1,5 +1,5 @@
 # api_final
-api final - проект по созданию REST API для упрощенной версии «Yatube» ()
+api final - проект по созданию REST API для упрощенной версии «Yatube» (https://github.com/RusanovaAnna/hw05_final.git)
 ### Как запустить проект:
 
 Клонировать репозиторий и перейти в него в командной строке:
